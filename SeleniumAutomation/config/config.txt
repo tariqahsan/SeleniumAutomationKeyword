@@ -1,0 +1,7 @@
+url=https://www.google.com
+browser=chrome
+webDriverpath=./webdriver/chromedriver.exe
+waitTime=60
+chromeDriverpath=ggg
+internetExploredriverpath=hghgh
+log4jproperty=./config/log4j.properties

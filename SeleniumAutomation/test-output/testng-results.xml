@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61397" started-at="2018-12-27T19:39:03Z" finished-at="2018-12-27T19:40:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61397" started-at="2018-12-27T19:39:03Z" finished-at="2018-12-27T19:40:04Z">
+      <class name="org.zia.training.selenium.keyword.TestAutomation">
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:org.zia.training.selenium.keyword.TestAutomation@39aeed2f]" name="testLogin" duration-ms="61378" started-at="2018-12-27T14:39:03Z" finished-at="2018-12-27T14:40:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+      </class> <!-- org.zia.training.selenium.keyword.TestAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
