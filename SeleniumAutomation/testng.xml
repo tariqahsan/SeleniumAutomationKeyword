@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.auto.TestAutomation"/>
+      <class name="org.zia.training.selenium.keyword.TestAutomation"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
